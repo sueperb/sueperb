@@ -11,4 +11,8 @@
 </a></li>
 
    <li><a href="https://github.com/sueperb/raspbiologist">raspbiologist</a> - Work-in-progress houseplant monitoring program that uses Raspberry Pi's Sense HAT.</li>
+   
+## Github Stats
+
+[![sueperb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sueperb)](https://github.com/anuraghazra/github-readme-stats)
 
