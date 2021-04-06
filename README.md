@@ -11,6 +11,7 @@
 </a></li>
 
    <li><a href="https://github.com/sueperb/raspbiologist">raspbiologist</a> - Work-in-progress houseplant monitoring program that uses Raspberry Pi's Sense HAT.</li>
+   <li><a href="https://github.com/sueperb/kahoot-bot">kahoot-bott</a> - hehe. A bot that joins your kahoot and answers randomly.</li>
 </ul>
    
 ## 📊 Github Stats
