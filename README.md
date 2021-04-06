@@ -8,5 +8,5 @@ It's a discord bot designed for easy custom economy and currency systems in your
 
 # Other projects
 
-[chess-stats-bot](https://github.com/sueperb/chess-stats-bot) 
+[raspbiologist](https://github.com/sueperb/raspbiologist) WIP houseplant monitoring program that uses Raspberry Pi's Sense HAT.
 
