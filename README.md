@@ -12,5 +12,5 @@ It's a discord bot designed for easy custom economy and currency systems in your
 
 [![Discord Bots](https://top.gg/api/widget/servers/671801771345182782.svg)](https://top.gg/bot/671801771345182782) [![Discord Bots](https://top.gg/api/widget/upvotes/671801771345182782.svg)](https://top.gg/bot/671801771345182782)
 
-[raspbiologist](https://github.com/sueperb/raspbiologist) - WIP houseplant monitoring program that uses Raspberry Pi's Sense HAT.
+[raspbiologist](https://github.com/sueperb/raspbiologist) - Work-in-progress houseplant monitoring program that uses Raspberry Pi's Sense HAT.
 
