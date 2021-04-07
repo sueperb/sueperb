@@ -9,8 +9,6 @@
 </a> <a href="https://top.gg/bot/671801771345182782">
     <img src="https://top.gg/api/widget/upvotes/671801771345182782.svg" alt="Meme Man" />
 </a></li>
-
-   <li><a href="https://github.com/sueperb/raspbiologist">raspbiologist</a> - Work-in-progress houseplant monitoring program that uses Raspberry Pi's Sense HAT.</li>
    <li><a href="https://github.com/sueperb/kahoot-bot">kahoot-bot</a> - hehe. A bot that joins your kahoot and answers randomly.</li>
 </ul>
    
